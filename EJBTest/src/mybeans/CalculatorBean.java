@@ -12,7 +12,7 @@ public class CalculatorBean implements CalculatorBeanLocal {
      * Default constructor. 
      */
     public CalculatorBean() {
-        
+        System.out.println("Constructor of Bean called");
     }
 
 	@Override
